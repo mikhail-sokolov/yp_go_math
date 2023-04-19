@@ -1,4 +1,4 @@
-package yp_go_math
+package math
 
 func Add(x, y int) int {
 	return x + y
